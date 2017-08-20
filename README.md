@@ -9,4 +9,4 @@ solved tasks from hackerrank
 * Finding the percentag - Finding_the_percentag.py
 * Find the Second Largest Number - Find_the_Second_Largest_Number.py
  # Numpy
- * Array = array.py
+ * Array - array.py
