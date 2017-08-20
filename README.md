@@ -10,3 +10,5 @@ solved tasks from hackerrank
 * Find the Second Largest Number - Find_the_Second_Largest_Number.py
  # Numpy
  * Array - array.py
+# Errors and Exceptions 
+* Exceptions - Exceptions.py
