@@ -12,3 +12,4 @@ solved tasks from hackerrank
  * Array - array.py
 # Errors and Exceptions 
 * Exceptions - Exceptions.py
+* Incorrect Regex - Incorrect_Regex.py
